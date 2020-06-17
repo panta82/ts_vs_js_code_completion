@@ -1,1 +1,1 @@
-const {} = req
+const {} = require('mayan-logger');
