@@ -1,0 +1,15 @@
+{
+	"name": "ts_vs_js_code_completion",
+	"version": "0.0.1",
+	"description": "Project ts_vs_js_code_completion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"prettier": "latest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT"
+}
