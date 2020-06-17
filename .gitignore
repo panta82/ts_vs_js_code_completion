@@ -172,3 +172,5 @@ typings/
 ##############
 
 # Your ignores here...
+
+dist
